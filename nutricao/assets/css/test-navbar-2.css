@@ -1,0 +1,113 @@
+.elementor-116 .elementor-element.elementor-element-8ad8977:not(.elementor-motion-effects-element-type-background),
+.elementor-116 .elementor-element.elementor-element-8ad8977>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: #02010100;
+}
+
+.elementor-116 .elementor-element.elementor-element-8ad8977 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-116 .elementor-element.elementor-element-8ad8977>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-116 .elementor-element.elementor-element-2c738be.elementor-column .elementor-widget-wrap {
+  align-items: center;
+}
+
+.elementor-116 .elementor-element.elementor-element-2c738be.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+  align-content: center;
+  align-items: center;
+}
+
+.elementor-116 .elementor-element.elementor-element-e7a6ca0 {
+  text-align: center;
+}
+
+.elementor-116 .elementor-element.elementor-element-e7a6ca0 img {
+  width: 48%;
+}
+
+.elementor-bc-flex-widget .elementor-116 .elementor-element.elementor-element-057c7c9.elementor-column .elementor-widget-wrap {
+  align-items: center;
+}
+
+.elementor-116 .elementor-element.elementor-element-057c7c9.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+  align-content: center;
+  align-items: center;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .elementor-menu-toggle {
+  margin: 0 auto;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .elementor-nav-menu .elementor-item {
+  font-family: "Poppins", Sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-framed .elementor-item:before {
+  border-width: 0px;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-framed.e--animation-draw .elementor-item:before {
+  border-width: 0 0 0px 0px;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-framed.e--animation-draw .elementor-item:after {
+  border-width: 0px 0px 0 0;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-framed.e--animation-corners .elementor-item:before {
+  border-width: 0px 0 0 0px;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-framed.e--animation-corners .elementor-item:after {
+  border-width: 0 0px 0px 0;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-underline .elementor-item:after,
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-overline .elementor-item:before,
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-double-line .elementor-item:before,
+.elementor-116 .elementor-element.elementor-element-7103235 .e--pointer-double-line .elementor-item:after {
+  height: 0px;
+}
+
+.elementor-116 .elementor-element.elementor-element-7103235 .elementor-nav-menu--main .elementor-item {
+  padding-left: 26px;
+  padding-right: 26px;
+}
+
+.elementor-bc-flex-widget .elementor-116 .elementor-element.elementor-element-6c62fcd.elementor-column .elementor-widget-wrap {
+  align-items: center;
+}
+
+.elementor-116 .elementor-element.elementor-element-6c62fcd.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+  align-content: center;
+  align-items: center;
+}
+
+@media(max-width:767px) {
+  .elementor-116 .elementor-element.elementor-element-2c738be {
+    width: 50%;
+  }
+
+  .elementor-116 .elementor-element.elementor-element-057c7c9 {
+    width: 50%;
+  }
+}
+
+@media(min-width:768px) {
+  .elementor-116 .elementor-element.elementor-element-2c738be {
+    width: 21.227%;
+  }
+
+  .elementor-116 .elementor-element.elementor-element-057c7c9 {
+    width: 53.613%;
+  }
+
+  .elementor-116 .elementor-element.elementor-element-6c62fcd {
+    width: 24.824%;
+  }
+}
