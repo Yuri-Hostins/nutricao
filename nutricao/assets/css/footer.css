@@ -1,0 +1,323 @@
+@import url('form.css');
+
+/* background footer */
+
+.elementor-126 .elementor-element.elementor-element-bd2dd4a:not(.elementor-motion-effects-element-type-background),
+.elementor-126 .elementor-element.elementor-element-bd2dd4a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: var(--e-global-color-secondary);
+}
+
+.elementor-126 .elementor-element.elementor-element-bd2dd4a {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 50px 50px 50px 50px;
+}
+
+.elementor-126 .elementor-element.elementor-element-bd2dd4a > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+/* font locais */
+
+.elementor-126 .elementor-element.elementor-element-f58e54d .elementor-heading-title {
+  font-family: "Poppins", Sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.elementor-126 .elementor-element.elementor-element-a4010a9 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+  padding-bottom: calc(14px/2);
+}
+
+.elementor-126 .elementor-element.elementor-element-a4010a9 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+  margin-top: calc(14px/2);
+}
+
+.elementor-126 .elementor-element.elementor-element-a4010a9 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+  margin-right: calc(14px/2);
+  margin-left: calc(14px/2);
+}
+
+.elementor-126 .elementor-element.elementor-element-a4010a9 .elementor-icon-list-items.elementor-inline-items {
+  margin-right: calc(-14px/2);
+  margin-left: calc(-14px/2);
+}
+
+body.rtl .elementor-126 .elementor-element.elementor-element-a4010a9 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+  left: calc(-14px/2);
+}
+
+body:not(.rtl) .elementor-126 .elementor-element.elementor-element-a4010a9 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+  right: calc(-14px/2);
+}
+
+.elementor-126 .elementor-element.elementor-element-a4010a9 {
+  --e-icon-list-icon-size: 14px;
+}
+
+.elementor-126 .elementor-element.elementor-element-a4010a9 .elementor-icon-list-text {
+  color: var(--e-global-color-primary);
+}
+
+/* Linha que fica embaixo da parte Locais */
+
+.elementor-126 .elementor-element.elementor-element-ea62e0c {
+  --divider-border-style: solid;
+  --divider-color: var(--e-global-color-accent);
+  --divider-border-width: 1.5px;
+}
+
+.elementor-126 .elementor-element.elementor-element-ea62e0c .elementor-divider-separator {
+  width: 54%;
+}
+
+.elementor-126 .elementor-element.elementor-element-ea62e0c .elementor-divider {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.elementor-126 .elementor-element.elementor-element-8ce8ee9 .elementor-heading-title {
+  font-family: "Poppins", Sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+/* espaçamento da parte contato */
+
+.elementor-126 .elementor-element.elementor-element-1ebbccf .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+  padding-bottom: calc(14px/2);
+}
+
+.elementor-126 .elementor-element.elementor-element-1ebbccf .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+  margin-top: calc(14px/2);
+}
+
+.elementor-126 .elementor-element.elementor-element-1ebbccf .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+  margin-right: calc(14px/2);
+  margin-left: calc(14px/2);
+}
+
+.elementor-126 .elementor-element.elementor-element-1ebbccf .elementor-icon-list-items.elementor-inline-items {
+  margin-right: calc(-14px/2);
+  margin-left: calc(-14px/2);
+}
+
+/* Parte Contato */
+
+/* essa parte do body não mudou nada */
+
+body.rtl .elementor-126 .elementor-element.elementor-element-1ebbccf .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+  left: calc(-14px/2);
+}
+
+body:not(.rtl) .elementor-126 .elementor-element.elementor-element-1ebbccf .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+  right: calc(-14px/2);
+}
+
+/* essa parte muda as cor da parte contato */
+
+.elementor-126 .elementor-element.elementor-element-1ebbccf {
+  --e-icon-list-icon-size: 14px;
+}
+
+.elementor-126 .elementor-element.elementor-element-1ebbccf .elementor-icon-list-text {
+  color: var(--e-global-color-primary);
+}
+
+/* Linha que fica embaixo da parte contato */
+
+.elementor-126 .elementor-element.elementor-element-99943e7 {
+  --divider-border-style: solid;
+  --divider-color: var(--e-global-color-accent);
+  --divider-border-width: 1.5px;
+}
+
+.elementor-126 .elementor-element.elementor-element-99943e7 .elementor-divider-separator {
+  width: 54%;
+}
+
+.elementor-126 .elementor-element.elementor-element-99943e7 .elementor-divider {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+/* Font do Parte dos Botões */
+
+.elementor-126 .elementor-element.elementor-element-77ba80d .elementor-heading-title {
+  font-family: "Poppins", Sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+/* Color Button Instagram */
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-d279fc3.elementor-social-icon {
+  background-color: var(--e-global-color-primary);
+}
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-d279fc3.elementor-social-icon i {
+  color: var(--e-global-color-secondary);
+}
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-d279fc3.elementor-social-icon svg {
+  fill: var(--e-global-color-secondary);
+}
+
+/* Color Button Facebook */
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-1c5a5e0.elementor-social-icon {
+  background-color: var(--e-global-color-primary);
+}
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-1c5a5e0.elementor-social-icon i {
+  color: var(--e-global-color-secondary);
+}
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-1c5a5e0.elementor-social-icon svg {
+  fill: var(--e-global-color-secondary);
+}
+
+/* Color Button WhatsApp */
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-8848a48.elementor-social-icon {
+  background-color: var(--e-global-color-primary);
+}
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-8848a48.elementor-social-icon i {
+  color: var(--e-global-color-secondary);
+}
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-repeater-item-8848a48.elementor-social-icon svg {
+  fill: var(--e-global-color-secondary);
+}
+
+
+
+.elementor-126 .elementor-element.elementor-element-ca20942 {
+  --grid-template-columns: repeat(3, auto);
+  --grid-column-gap: 5px;
+  --grid-row-gap: 0px;
+}
+
+.elementor-126 .elementor-element.elementor-element-ca20942 .elementor-widget-container {
+  text-align: left;
+}
+
+.elementor-126 .elementor-element.elementor-element-d5ad5a8:not(.elementor-motion-effects-element-type-background),
+.elementor-126 .elementor-element.elementor-element-d5ad5a8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: #F5F5F5;
+}
+
+.elementor-126 .elementor-element.elementor-element-d5ad5a8 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-126 .elementor-element.elementor-element-d5ad5a8>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-126 .elementor-element.elementor-element-7250dae {
+  text-align: center;
+  font-family: "Montserrat", Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+@media(min-width:768px) {
+  .elementor-126 .elementor-element.elementor-element-cd6680f {
+    width: 36.371%;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-3b0efc6 {
+    width: 31.749%;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-4e2c168 {
+    width: 31.154%;
+  }
+}
+
+
+
+@media(max-width:767px) {
+  .elementor-126 .elementor-element.elementor-element-2dd7085 {
+    padding: 20px 20px 20px 20px;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-86adaea>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 20px 20px 20px 20px;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-1374674 .elementor-heading-title {
+    font-size: 20px;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-d685784>.elementor-element-populated {
+    margin: 40px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 2px 2px 2px 2px;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-af25b26 .elementor-heading-title {
+    font-size: 20px;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-bd2dd4a {
+    padding: 20px 20px 20px 20px;
+  }
+
+  .elementor-126 .elementor-element.elementor-element-7250dae {
+    font-size: 14px;
+  }
+}
+
+
+
+/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,
+.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,
+.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container {
+  line-height: 1;
+  font-size: 0
+}
+
+.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid {
+  display: inline-grid
+}
+
+.elementor-widget-social-icons .elementor-grid {
+  grid-column-gap: var(--grid-column-gap, 5px);
+  grid-row-gap: var(--grid-row-gap, 5px);
+  grid-template-columns: var(--grid-template-columns);
+  justify-content: var(--justify-content, center);
+  justify-items: var(--justify-content, center)
+}
+
+.elementor-icon.elementor-social-icon {
+  font-size: var(--icon-size, 25px);
+  line-height: var(--icon-size, 25px);
+  width: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));
+  height: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))
+}
+
+.elementor-social-icon {
+  display: inline-flex;
+  background-color: #818a91;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.elementor-social-icon svg {
+  fill: var(--e-social-icon-icon-color);
+}
+
+.elementor-social-icon:hover,
+.elementor-social-icon:focus {
+  opacity: .9;
+  color: var(--wp--preset--color--white);
+}

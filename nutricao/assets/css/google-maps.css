@@ -1,0 +1,7 @@
+.elementor-widget-google_maps .elementor-widget-container {
+  overflow: hidden
+}
+
+.elementor-widget-google_maps iframe {
+  height: 300px
+}
