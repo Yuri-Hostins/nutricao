@@ -1,0 +1,163 @@
+.elementor-126 .elementor-element.elementor-element-2dd7085:not(.elementor-motion-effects-element-type-background),
+.elementor-126 .elementor-element.elementor-element-2dd7085>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-color: #F5F5F5;
+}
+
+.elementor-126 .elementor-element.elementor-element-2dd7085 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 80px 50px 80px 50px;
+}
+
+.elementor-126 .elementor-element.elementor-element-2dd7085>.elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-126 .elementor-element.elementor-element-86adaea>.elementor-element-populated {
+  box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.5);
+  margin: 0px 30px 0px 0px;
+  --e-column-margin-right: 30px;
+  --e-column-margin-left: 0px;
+}
+
+.elementor-126 .elementor-element.elementor-element-1374674 .elementor-heading-title {
+  color: var(--e-global-color-secondary);
+  font-family: "Poppins", Sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-field-group {
+  padding-right: calc(7px/2);
+  padding-left: calc(7px/2);
+  margin-bottom: 21px;
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-form-fields-wrapper {
+  margin-left: calc(-7px/2);
+  margin-right: calc(-7px/2);
+  margin-bottom: -21px;
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-field-group.recaptcha_v3-bottomright {
+  margin-bottom: 0;
+}
+
+body.rtl .elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-labels-inline .elementor-field-group>label {
+  padding-left: 0px;
+}
+
+body:not(.rtl) .elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-labels-inline .elementor-field-group>label {
+  padding-right: 0px;
+}
+
+body .elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-labels-above .elementor-field-group>label {
+  padding-bottom: 0px;
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-field-type-html {
+  padding-bottom: 0px;
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+  background-color: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-field-group .elementor-select-wrapper select {
+  background-color: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-button {
+  font-family: "Poppins", Sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .e-form__buttons__wrapper__button-next {
+  color: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-button[type="submit"] {
+  color: var(--wp--preset--color--white);
+  cursor: pointer;
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-button[type="submit"] svg * {
+  fill: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .e-form__buttons__wrapper__button-previous {
+  color: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .e-form__buttons__wrapper__button-next:hover {
+  color: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-button[type="submit"]:hover {
+  color: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .elementor-button[type="submit"]:hover svg * {
+  fill: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 .e-form__buttons__wrapper__button-previous:hover {
+  background-color: var(--e-global-color-primary);
+  color: var(--wp--preset--color--white);
+}
+
+.elementor-126 .elementor-element.elementor-element-c73fa37 {
+  --e-form-steps-indicators-spacing: 20px;
+  --e-form-steps-indicator-padding: 30px;
+  --e-form-steps-indicator-inactive-secondary-color: var(--wp--preset--color--white);
+  --e-form-steps-indicator-active-secondary-color: var(--wp--preset--color--white);
+  --e-form-steps-indicator-completed-secondary-color: var(--wp--preset--color--white);
+  --e-form-steps-divider-width: 1px;
+  --e-form-steps-divider-gap: 10px;
+}
+
+.elementor-126 .elementor-element.elementor-element-af25b26 .elementor-heading-title {
+  color: var(--e-global-color-secondary);
+  font-family: "Poppins", Sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.contato--titulo{
+  display: flex;
+  justify-content: center;
+  color: var(--e-global-color-secondary);
+  font-size: 35px;
+  font-weight: 500;
+}
+
+.elementor-11 .elementor-element.elementor-element-96400fb {
+  --divider-border-style: solid;
+  --divider-color: #000;
+  --divider-border-width: 1px;
+}
+
+.elementor-11 .elementor-element.elementor-element-96400fb .elementor-divider-separator {
+  width: 15%;
+  margin: 0 auto;
+}
+
+.elementor-11 .elementor-element.elementor-element-96400fb .elementor-divider {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+@media screen and (min-width: 1500px){
+  .elementor-11 .elementor-element.elementor-element-96400fb .elementor-divider-separator {
+    width: 5%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 550px){
+  .elementor-widget-heading .elementor-heading-title {
+    font-size: 1.25rem;
+  }
+}
