@@ -1,0 +1,25 @@
+.cabecalho-botao_agende {
+  display: inline-block;
+  line-height: 1;
+  background-color: var(--color-link);
+  font-size: 20px;
+  padding: 12px 24px;
+  border-radius: 25px;
+  color: var(--branco);
+  fill: var(--branco);
+  margin-left: 2rem;
+  text-transform: uppercase;
+  transition: 0.5s ease-in-out;
+}
+
+@media screen and (max-width: 1039){
+  .cabecalho-botao_agende{
+    margin-top: 3rem;
+  }
+}
+
+.cabecalho-botao_agende:hover,
+.cabecalho-botao_agende:focus{
+  background-color: var(--color-link--segundario);
+  transition: 0.5s ease-in-out;
+}
